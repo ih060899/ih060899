@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imran Hossain</h1>
 <h3 align="center">A passionate full stack developer, Cloud & BlockChain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ih060899&label=Profile%20views&color=0e75b6&style=flat" alt="ih060899" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ih060899" alt="ih060899" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ih060899" target="blank"><img src="https://img.shields.io/twitter/follow/ih060899?logo=twitter&style=for-the-badge" alt="ih060899" /></a> </p>
 
 - 🔭 I’m currently working on [Spring Boot E-commerce Api](https://github.com/ih060899/spring-boot-ecommerce-api)
 
@@ -15,7 +10,6 @@
 
 - 📫 How to reach me **imranhossain681999@gmail.com**
 
-- ⚡ Fun fact **I am crazy about Technology**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
