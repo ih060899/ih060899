@@ -261,9 +261,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ih060899&show_icons=true&locale=en&layout=compact" alt="ih060899" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ih060899&show_icons=true&locale=en" alt="ih060899" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ih060899&" alt="ih060899" /></p>
 
