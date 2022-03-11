@@ -3,11 +3,6 @@
 
 
 - 🔭 I’m currently working on [Spring Boot E-commerce Api](https://github.com/ih060899/spring-boot-ecommerce-api)
-
-- 🌱 I’m currently learning **I’m currently learning Microservices architecture**
-
-- 💬 Ask me about **Spring Boot, ReactJs, NextJs, Spring Data JPA & ExpressJs**
-
 - 📫 How to reach me **imranhossain681999@gmail.com**
 
 
