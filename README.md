@@ -36,8 +36,6 @@
 
 <h3 align="left">Programming Languages :</h3>
 
-<h3 align="left">Programming Languages :</h3>
-
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
